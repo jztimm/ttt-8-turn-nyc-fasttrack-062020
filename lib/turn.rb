@@ -9,6 +9,9 @@
 # end
 
 
+def #displa_board(board)
+  puts board
+end
 
 
 
